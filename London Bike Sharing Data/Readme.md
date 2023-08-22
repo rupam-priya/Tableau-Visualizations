@@ -1,8 +1,9 @@
 # INTRODUCTION
   The dataset is downloaded from Kaggle.
-  The aim is to understand data, make it well suitable to create visualizations and create visualisation to uncover
-  stories behind this data.Note that this will differ from the process of modifying the data to create preidctive
-  models of do further analysis.
+  The aim is to understand data, make it well-suitable to create visualizations, and create visualization to uncover
+  stories behind this data. Note that this will differ from modifying the data to create predictive
+  models for further analysis. <br>
+  The data preprocessing was done to make data ready to visualize, the file of which is also within the folder. 
 
 ## FOLLOW THE LINK BELOW TO FIND THE DYNAMIC TABLEAU VISUALIZATION
 https://public.tableau.com/app/profile/rupam.priya/viz/LondonBikeSharing_16926477514660/Dashboard1
