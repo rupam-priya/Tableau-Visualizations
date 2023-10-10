@@ -6,7 +6,7 @@ Data source: <br>
 https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset?rvi=1
 
 ### Aim
-To find the best strategies to improve for the next marketing campaign
+To find the best strategies to improve for the next marketing campaign. Many different types of insights were drawn after visualising the data and also, irrelevant features were also identified. Made a dynamic visualization to dive into details with just a click.
 
 ### Tools used in Tableau
 1. Filters
